@@ -11,3 +11,10 @@ y a disfrutar de tu sorteo
 ```console
 foo@bar:~$ ./concurso.py
 ```
+Changelog:
+
+Versión 1.0.20180713:
+- Añadido lenguaje inclusivo y permisos de ejecución.
+
+Versión 1.0.20130622:
+- Versión inicial.
