@@ -1,16 +1,18 @@
 # Script en Python que carga un .CSV
-Este es un script en Python que carga un archivo .csv para el concurso del pendrive del CAICI. Invención de @dsanmartin
-DCSMD
 
-Solo debes dar los permisos correspondientes 
+Este es un script en Python que carga un archivo .CSV para el concurso del pendrive del CAICI. Invención de @dsanmartin
+
+Sólo debes dar los permisos correspondientes para poder ejecutar el programa:
 ```console
 foo@bar:~$ chmod +x concurso.py
 ```
 
-y a disfrutar de tu sorteo
+Luego de esto, ejecuta este comando:
 ```console
 foo@bar:~$ ./concurso.py
 ```
+y ¡podrás disfrutar de tu sorteo!
+
 Changelog:
 
 Versión 1.0.20180713:
