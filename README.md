@@ -13,7 +13,8 @@ foo@bar:~$ ./concurso.py
 ```
 y ¡podrás disfrutar de tu sorteo!
 
-Changelog:
+
+# Changelog:
 
 Versión 1.0.20180713:
 - Añadido lenguaje inclusivo y permisos de ejecución.
